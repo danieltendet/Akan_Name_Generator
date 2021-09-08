@@ -53,3 +53,14 @@
 
 .fill{
             text-align: center;
+}
+
+.result {
+
+    text-align: center;
+    padding: 50px;
+    background-color: lightblue;
+    color: orange;
+    font-size: xx-large;
+
+}    
