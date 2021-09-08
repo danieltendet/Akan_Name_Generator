@@ -27,10 +27,19 @@
 .column{
             flex: 50%;
         }
-        
+
 .function{
             text-align: left;
             padding: 20px;
             background-color: greenyellow;
+        
+        }
+        
+.app{
+
+            background-color: rgb(206, 255, 126);
+            text-align: left;
+            font-size: larger;
+            padding: 20px;
         
         }
