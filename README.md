@@ -1,8 +1,11 @@
 # Akan Name Giver.
-#### {Brief description of application}, {Date of current version}
+#### Akan Name Giver takes your Birthday date and depending on your gender outputs akan name ,8th Sep 2021
 #### By **Daniel Naibei Tendet**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Akan names are Names given to children in ghana according to the day of the week a child is born in.
+The names were Gender specific.
+This application takes input from a user that is the users birthday and gender and calculates the day of the week the user was born from the input and finally outputs your Akan Name .
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -13,10 +16,10 @@
 ## Known Bugs
 So far, so good. I have not found any bugs or issues with the Application.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+I used HTML, CSS and Javascript 
 ## Support and contact details
 Incase of any issues you encounter while using the application or you have something to add on,
 please feel free to reach me at : daniel.tendet@students.moringaschool.com 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT*
 Copyright (c) {2021} **Daniel Naibei Tendet**
