@@ -34,7 +34,7 @@
             background-color: greenyellow;
         
         }
-        
+
 .app{
 
             background-color: rgb(206, 255, 126);
@@ -42,4 +42,11 @@
             font-size: larger;
             padding: 20px;
         
+        }
+        
+.try{
+            text-align: center;
+            background-color: mediumpurple;
+            padding: 20px;
+            
         }
