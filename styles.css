@@ -6,6 +6,15 @@
     
     }
   
- .container{
+.container{
         background-color: lightgoldenrodyellow;
     }
+
+.akan {
+        background-color: pink;
+        font-size: larger;
+        text-align: center;
+        padding: 20px;
+        
+        
+        }
