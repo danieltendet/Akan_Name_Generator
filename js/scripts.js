@@ -18,3 +18,8 @@ akanForm.addEventListener("submit", (e) => {
     dayOfTheWeek = (((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7;
 
     dayOfTheWeek = parseInt(dayOfTheWeek);
+
+    let akanName;
+
+    femaleAkanNames = ["Ama", "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua"];
+    maleAkanNames = ["Kwame", "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi"];
